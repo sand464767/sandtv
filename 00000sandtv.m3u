@@ -1,19 +1,65 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",monomax
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.m3u8
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/monomax.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",bein2
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/bein3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",t-sport7
-https://live-us1.thaimomo.com/live-as/chtsport-2/playlist.m3u8
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/bein2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",spotv1
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/spotv1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",spotv2
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/spotv2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",astro football
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/astrofootball.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",astro grandstand
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/astrograndstand.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",astro premier
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/astropremier.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",astro premier2
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/astropremier2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",truesport1
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/truesport1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",truesport2
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/truesport2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",truesport5
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/truesport5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",tennis
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/tennis.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",golf
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/golf.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",nba
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/nba.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",hbo
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",hbo family
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/hbofamily.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",hbohits
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/hbohits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",hbo signature
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/hbo_signature.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",axn
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/axn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",rock action
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/rockaction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true asianmore
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/true_asiamore.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true film1
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/true_film1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true_film2
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/true_film1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true moviehits
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/true_moviehits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true series
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/trueseries.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true thaifilm
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/true_thaifilm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true4u
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/true4u.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",wbtv
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/wb_tv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",cinemax
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",animalshow
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/animal_show.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",monomax
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",monomax
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",monomax
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",monomax
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",monomax
-https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true explore sci
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/trueexploresci.m3u8
+
+
