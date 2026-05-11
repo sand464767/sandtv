@@ -65,5 +65,6 @@ https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/cin
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/animal_show.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true explore sci
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/trueexploresci.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",test1
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/ch7.m3u8
 
