@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/bei
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/bein3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",spotv1
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/spotv1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",ziggo
+https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/ziggo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",spotv2
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/spotv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",astro football
