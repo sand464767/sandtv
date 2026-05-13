@@ -41,6 +41,10 @@ https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/hbo
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/hbo_signature.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",axn
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/axn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",asian hit
+https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",mono29 plus
+https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",rock action
 https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/m3u8crop/rockaction.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sand464767/sandtv/refs/heads/main/monomax.png",true asianmore
