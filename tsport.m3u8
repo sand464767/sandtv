@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+
+#EXT-X-DRM:{"clearkey":{"keyId":"6187523f92b9475bb5b192f70cef1342","key":"5119311f482144d58dacabc5bc1fa4ba"}}
+#EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="tsport7"
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd|referer=https://ais-vidnt.com/
